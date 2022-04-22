@@ -1,0 +1,66 @@
+
+
+
+li {
+    display: inline-flex;
+    padding: 15px;
+    color: blue;
+
+
+}
+.contenedor {
+    width: 750px;
+    border: solid 1px red; 
+    background-color:gray;
+    padding-bottom: 15px;
+   
+    
+
+}
+.contenedor h2 {
+    color:red;
+    
+
+}
+
+.contenedor ul li {
+  
+    color: white;
+    display: block;
+    padding: 10px 0px;
+    display: flex;
+    
+
+}
+
+   
+
+
+
+a:hover  {
+    color:black
+    
+}
+a {
+    color: blue;
+    text-decoration: none;
+    
+    
+}
+
+.contenedor a:hover{
+    color: blue;
+    
+}
+
+.contenedor a{
+    text-decoration: underline;
+    margin-bottom: 10px;
+    
+    
+    
+}
+.contenedor ul{
+    margin: 0px;
+    padding: 0px;
+}
